@@ -14,5 +14,6 @@ https://docs.google.com/document/d/17dkgRFIxEAdOvFsUuCD5TGeWHCqcC7U-Ha5MJ0EfdtI/
 ![image](https://github.com/Avar1tia/DemoEkzamen/assets/97594483/a825990f-c0ca-4a4f-8874-6aaee70b0aee)
 ![image](https://github.com/Avar1tia/DemoEkzamen/assets/97594483/fd471ba7-be8c-458e-9ae8-3e863acbbe3f)
 <h1>ПО на флешке</h1>
-![image](https://github.com/Avar1tia/DemoEkzamen/assets/97594483/1e2417eb-02af-4664-81bf-03a9949ed015)
+![image](https://github.com/Avar1tia/DemoEkzamen/assets/97594483/31ab167d-e1ab-4f91-8905-979a99201787)
+
 
