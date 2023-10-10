@@ -1,3 +1,4 @@
+<h1>Турагенство</h1>
 <p>1. UML (use case diagram)</p>
 
 ![image](https://github.com/Avar1tia/DemoEkzamen/assets/97594483/152380e6-3241-49ab-b1c5-ea47a259a94c)
@@ -12,4 +13,8 @@
 ![image](https://github.com/Avar1tia/DemoEkzamen/assets/97594483/23dd27ac-f3fe-41f6-9789-e77ab4b48ef6)
 
 ![image](https://github.com/Avar1tia/DemoEkzamen/assets/97594483/767eb368-22b1-4f0f-8d49-7a958e999009)
+<h1>Свияжские хомлы</h1>
+
+![image](https://github.com/Avar1tia/DemoEkzamen/assets/97594483/f74d6853-4913-404f-9e6a-ea423052aaf3)
+![image](https://github.com/Avar1tia/DemoEkzamen/assets/97594483/73de76ab-93ed-46c4-8a86-8dfcfc4780e5)
 
