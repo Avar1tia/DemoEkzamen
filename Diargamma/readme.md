@@ -18,3 +18,10 @@
 ![image](https://github.com/Avar1tia/DemoEkzamen/assets/97594483/f74d6853-4913-404f-9e6a-ea423052aaf3)
 ![image](https://github.com/Avar1tia/DemoEkzamen/assets/97594483/73de76ab-93ed-46c4-8a86-8dfcfc4780e5)
 
+<h1>Руль</h1>
+
+![image](https://github.com/Avar1tia/DemoEkzamen/assets/97594483/8a752179-a601-4f83-a327-f8004b6d2f5e)
+![image](https://github.com/Avar1tia/DemoEkzamen/assets/97594483/8c64c88d-4b3f-4ab9-8c30-f16c1ebb901d)
+![image](https://github.com/Avar1tia/DemoEkzamen/assets/97594483/898be96e-55e9-4970-829a-e09c42c13ff9)
+![image](https://github.com/Avar1tia/DemoEkzamen/assets/97594483/2ff1584d-8495-47ed-9c8a-074b00fde117)
+
